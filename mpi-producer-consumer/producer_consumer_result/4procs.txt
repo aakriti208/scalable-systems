@@ -1,0 +1,5 @@
+Run 1: Total work consumed: 6752296
+Run 2: Total work consumed: 6687177
+Run 3: Total work consumed: 6858582
+Run 4: Total work consumed: 6667262
+Run 5: Total work consumed: 6748860

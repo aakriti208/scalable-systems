@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "scalable-systems",
+			"path": "."
+		},
+		{
+			"name": "lab1",
+			"path": "../../Assignments/dhakal_cs7389D/lab1"
+		},
+		{
+			"name": "lab2",
+			"path": "../../Assignments/dhakal_cs7389D/lab2"
+		},
+		{
+			"name": "lab3",
+			"path": "../../Assignments/dhakal_cs7389D/lab3"
+		},
+		{
+			"name": "lab4",
+			"path": "../../Assignments/dhakal_cs7389D/lab4"
+		},
+		{
+			"name": "assgn1",
+			"path": "../../Assignments/dhakal_cs7389D/assgn1"
+		},
+		{
+			"name": "assgn2",
+			"path": "../../Assignments/dhakal_cs7389D/assgn2"
+		},
+		{
+			"name": "lab5",
+			"path": "../../Assignments/dhakal_cs7389D/lab5"
+		},
+		{
+			"name": "Project",
+			"path": "../../Assignments/dhakal_cs7389D/Project"
+		}
+	],
+	"settings": {}
+}
